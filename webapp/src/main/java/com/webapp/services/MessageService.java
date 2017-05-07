@@ -10,4 +10,8 @@ public class MessageService {
     public void sendMessage(String from, String to) {
         // TODO: implement here
     }
+
+    public String getInfo() {
+        return "info here!";
+    }
 }
